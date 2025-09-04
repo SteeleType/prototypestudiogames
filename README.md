@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# This is for the class Prototype Studio. 
 
-DO NOT LEAVE IT LIKE THIS!!!
+A game a week. 
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+# Week 1: Good Luck
