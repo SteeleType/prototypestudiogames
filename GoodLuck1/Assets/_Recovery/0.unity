@@ -149,6 +149,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MenuOptions
   statsScreen: {fileID: 64108579}
+  isMenuOpen: 0
 --- !u!4 &26204215
 Transform:
   m_ObjectHideFlags: 0
